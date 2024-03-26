@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Area 1</title>
+        <body style="background-color: rgba(135, 206, 250, 0.6);">
+            <Body> <p align=center> <img src="For Programming Website/Front of School.jpg" height="200"> </p>
+              <p align="center">We are at the front of the school and what we will see around us is.</p>
+                <hr>
+            
+            <ul>
+
+                <Img src="For Programming Website/Admin Building.jpg" height="150"
+                <br>
+                <p>This is where the Guard House,IMEs,Registrar,Admin Building,Principal's Officeare located. </p>
+                <br>
+                <hr>
+                <br>
+
+                <p align=center><img src="For Programming Website/Cover Court Clean.jpg" height="150"</p>
+                <br>
+                <p>This is where school activities or events are usually held, it is also used for Practicing,Dancing,Acting and other uses for Court's.</p>
+                <br>
+                <hr>
+                <br>
+
+                <p align="right"><img src="For Programming Website/Nara Bldg.jpg" height="250"</p>
+                <br>
+                <p>Old building that is now used for Storage</p>
+                <br>
+                <hr>
+                <br>
+
+                <p align="right"><img src="For Programming Website/Principal Office.jpg" height="150"</p> 
+                <p>Admin Building and also has the Principal's Office within it.</p>
+                <br>
+                <hr>
+                <br>
+
+                <p align="center"><img src="For Programming Website/Heritage Bldg.jpg" height="150"</p>
+                <br>
+                <p>1st floor has the ESP Dept. Meanwhile the 2nd floor has the Property Room.</p>
+                <img src="For Programming Website/2nd COOP.jpg" height="150"
+                <br>
+                <p>Where you can buy food</p>
+                <br>
+                <hr>
+                <br>
+                
+                <img src="For Programming Website/Pimentel Bldg.jpg" height="150"
+                <br>
+                <p>1st floor has the Clinic and Staff Room/Dept.Head Room. 2nd floor has the Dance Studio and Faculty Center.</p>
+                <br>
+                <hr>
+                <br>
+
+                <p align="center"><img src="For Programming Website/Canteen.jpg" height="150"</p> 
+                <br>
+                <p>Where you can buy food and school supplies</p>
+                <p align="right"><img src="For Programming Website/COOP.jpg" height="150"</p>
+                <br>
+                <p>Where you can buy food and school supplies and also load your phone.</p>
+                <br>
+                <hr>
+                <br>
+
+                <p><a href="Site1.html"> Back </a></p>
+                <p><a href="Area 2"> Next </a></p>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </ul>
+            
+            
+            
+            
+            
+            
+            
+
+
+
+
+
+
+            </Body>
